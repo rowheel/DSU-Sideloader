@@ -12,7 +12,7 @@ A simple app made to help users easily install GSIs via DSU's Android feature.
 - Device with Dynamic Partitions
 - A GSI you want to use!
 
-Community GSIs: https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
+Community GSIs: https://github.com/TrebleDroid/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
 
 Google GSIs: https://developer.android.com/topic/generic-system-image/releases
 
